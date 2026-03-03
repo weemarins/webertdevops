@@ -2,6 +2,7 @@
 title: "Rotina diária de um Analista Kubernetes em ambiente OpenShift PROD"
 date: "2025-12-01"
 description: "Como é o dia a dia de um analista Kubernetes trabalhando em um cluster OpenShift em produção."
+image: "/images/placeholder.png"
 tags:
   - kubernetes
   - openshift

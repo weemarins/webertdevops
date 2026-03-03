@@ -1,6 +1,6 @@
 # Webert DevOps Blog
 
-Blog estático profissional baseado em Next.js com exportação para S3.
+Blog estático profissional baseado em Next.js com exportação para S3. Estilo inspirado em layouts técnicos com sidebar escura e cards de post, voltado a desenvolvedores.
 
 ## Tecnologias
 - Next.js (última versão)
@@ -22,7 +22,7 @@ Os arquivos exportados em `out/` podem ser hospedados em qualquer serviço de ar
 - Cada post possui `title`, `date`, `description`, `tags`
 
 ## Páginas criadas
-- `/` página inicial com lista de posts
+- `/` página inicial com sidebar e lista de posts em cards
 - `/posts/[slug]` página individual do post
 - `/about` página sobre o autor
 - `/tags` lista de tags

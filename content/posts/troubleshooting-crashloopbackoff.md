@@ -2,6 +2,7 @@
 title: "Troubleshooting de Pods em CrashLoopBackOff"
 date: "2025-12-10"
 description: "Passo a passo para diagnosticar e resolver pods que ficam em CrashLoopBackOff."
+image: "/images/placeholder.png"
 tags:
   - kubernetes
   - troubleshooting
