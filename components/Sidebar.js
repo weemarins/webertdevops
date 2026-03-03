@@ -4,9 +4,9 @@ export default function Sidebar() {
   return (
     <aside className="sidebar">
       <div className="profile">
-        <img src="/images/placeholder.png" alt="Webert" className="avatar" />
-        <h2>Bora aprender!?!?</h2>
-        <p>Lugar onde tento trazer com palavras mais simples o que eu tive dificuldade de compreender.</p>
+        <img src="/images/profile.png" alt="Webert DevOps" className="avatar" />
+        <h2>Webert DevOps</h2>
+        <p>Blog sobre DevOps, Kubernetes, Cloud e infraestrutura. Conteúdo técnico e prático.</p>
       </div>
       <nav className="sidebar-nav">
         <ul>
